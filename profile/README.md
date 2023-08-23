@@ -1,6 +1,6 @@
 # DataWealthy
 
-![DataWealthy Logo](https://avatars.githubusercontent.com/u/140413975?s=200&v=4)
+![DataWealthy Banner](../assets/Banner.png)
 
 ## About DataWealthy
 
@@ -48,7 +48,11 @@ DataWealthy relies on the support of individuals and organizations to continue o
 
 Follow us on social media to stay updated on the latest projects, events, and community activities:
 
-- Twitter: [@DataWealthy](https://twitter.com/DataWealthy)
+- Twitter: [X.com/**@DataWealthy**](https://twitter.com/DataWealthy)
+- Youtube: [youtube.com/**@DataWealthy**](https://youtube.com/DataWealthy)
+- Patreon: [patreon.com/**DataWealthy**](https://patreon.com/DataWealthy)
+- Instagram: [instagram.com/**DataWealthy**](https://instagram.com/DataWealthy)
+- Threads: [threads.net/**@DataWealthy**](https://threads.net/@datawealthy)
 <!-- - LinkedIn: [DataWealthy](https://www.linkedin.com/company/datawealthy) -->
 
 ---
