@@ -1,6 +1,6 @@
 # DataWealthy
 
-![DataWealthy Banner](../assets/Banner.png)
+![DataWealthy Banner](https://raw.githubusercontent.com/datawealthy/.github/main/assets/Banner.png)
 
 ## About DataWealthy
 
